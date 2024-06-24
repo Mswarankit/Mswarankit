@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mswarankit
 - 👀 I’m interested in colaboration and development with people.
-- 🌱 I’m currently working on Django app for the CRM development.
-- 💞️ I’m looking to collaborate on django developer for integration of API.
+- 🌱 I’m currently working on Golang Backend development.
+- 💞️ I’m looking to collaborate on Golang developer for integration of API.
 - 📫 How to reach me you can reach through Github or LinkedIn.
 
 Thanks  
